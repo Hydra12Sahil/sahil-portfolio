@@ -1,0 +1,22 @@
+{
+  "overview": "Professional portfolio website for Sahil — a data analyst with BCA & DCA/ADCA education, strong expertise in Power BI, Excel, Python, SQL, and GitHub, plus 1 year of industry experience. Showcases 3 projects including dashboards and a live site.",
+  "features": [
+    "Hero section with animated intro and call-to-action buttons",
+    "About section with education timeline and certifications",
+    "Skills section organized by proficiency with visual indicators",
+    "Projects section with 3 project cards linking to live demos",
+    "Contact section with social links and contact form",
+    "Fully responsive mobile-first design with sticky navigation"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "data-analyst",
+    "power-bi",
+    "python",
+    "sql",
+    "react",
+    "tailwind"
+  ],
+  "last_updated": "2026-05-11T10:36:37.031Z"
+}
